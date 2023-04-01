@@ -7,4 +7,4 @@
 
   //This page allows anyone to register their credentals 
   
-  //This page will store its data in mysql
+  //This Registration page will store its data in mysql
