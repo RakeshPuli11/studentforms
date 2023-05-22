@@ -164,10 +164,6 @@ public class registration {
 				
 				
 				
-				
-				
-				
-				
 			}
 		});
 		btnNewButton.setBounds(223, 372, 89, 23);
